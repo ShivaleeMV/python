@@ -1,0 +1,5 @@
+print(15)
+print(-21)
+print(1.3)
+print(-98.7)
+print("21")
